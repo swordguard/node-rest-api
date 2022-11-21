@@ -1,0 +1,7 @@
+{
+    "env": {
+        "MONGO_ATLAS_UN": "jay-sun71503",
+        "MONGO_ATLAS_PW": "jay-sun71503",
+        "JWT_KEY":"microsunit2023,.,.,."
+    }
+}
